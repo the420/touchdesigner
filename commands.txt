@@ -1,0 +1,3 @@
+curl -O https://network-gateway.openvpn.com/network-gate/api/v1/scripts/RGViaWFuIDEy/host/debian_12.sh
+chmod +x debian_12.sh
+./debian_12.sh
